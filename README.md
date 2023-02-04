@@ -1,2 +1,4 @@
-# FootApostaa
-Projeto de Programação Web feito em dupla. O objetivo desse projeto era criar um site de aposta dos jogos da copa do mundo.
+# FootAposta
+ Projeto Programação WEB em dupla com Carla Saionara
+ https://www.linkedin.com/in/john-lucas-a23880208/
+ https://www.linkedin.com/in/carla-saionara-araujo-47b14a226/

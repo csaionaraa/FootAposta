@@ -1,0 +1,10 @@
+CREATE TABLE `login` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `login` varchar(100) DEFAULT NULL,
+  `senha` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+insert into login(email, senha) values ('joohnzay@gmail.com', '202cb962ac59075b964b07152d234b70');
+
+alter table login add nome varchar(200);
